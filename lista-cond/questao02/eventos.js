@@ -11,4 +11,6 @@ if(sexo === 'F' && civil === 'casada'){
   let tempoDeSofrimento = prompt('Coloque quantos anos de casada!')
     alert(`seu tempo de casada e ${tempoDeSofrimento} anos`)
     console.log(`seu tempo de casada e ${tempoDeSofrimento} anos`)
-};
+}else{
+  console.log('condição indefinida');
+}

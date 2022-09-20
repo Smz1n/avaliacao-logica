@@ -4,9 +4,9 @@ imprimir o resultado desta operação. */
 let numero = 3;
 
 if(numero % 2 === 0){
-    let resultadoPar = numero + 5
-    console.log(resultado1)
+    let resultadoPar = numero + 5;
+    console.log(resultadoPar);
 }else{
     let resultadoImpar = numero + 8 
-    console.log(resultado2 )
+    console.log(resultado2 );
 }

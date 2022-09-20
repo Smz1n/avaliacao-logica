@@ -3,6 +3,7 @@ let b = 20;
 let c = 0;
 
 if (a === b) {
+    let soma
     c = a + b; 
 
     document.write("Igual: ", c);

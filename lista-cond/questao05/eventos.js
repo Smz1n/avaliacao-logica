@@ -3,7 +3,7 @@ imprimindo o resultado. */
 
 let numero = -3;
 
-if (numero > 0) {
+if (numero >= 0) {
     let positivo = numero * 2;
     console.log('numero e positivo')
 } else{
